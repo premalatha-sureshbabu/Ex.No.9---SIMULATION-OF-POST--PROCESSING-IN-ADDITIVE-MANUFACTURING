@@ -46,9 +46,10 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![Screenshot 2023-05-29 084251](https://github.com/premalatha-sureshbabu/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/120620842/b2bfb5a1-5772-4f54-86da-d9e039771f5a)
 
-### Name:
-### Register Number:
+### Name:S.Prema Latha
+### Register Number:212222230112
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
